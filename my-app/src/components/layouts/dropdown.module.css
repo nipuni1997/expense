@@ -1,0 +1,98 @@
+.dropdown{
+    background-color: plum;
+    width: 20vw;
+    font-weight: bolder;
+    justify-content: center;
+    margin-top: 2%;
+    margin-left: -1.5%;
+    
+
+}
+
+.link{
+    text-decoration: none;
+    color: indigo;
+    font-weight: bolder;
+}
+.button{
+    background-color: plum;
+    font-weight: bolder;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    border-color: rosybrown;
+   margin-top:5%;
+
+   
+    
+    
+}
+
+.buttonUpdate{
+    width: 20%;
+    font-weight: bolder;
+    color: #000;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+    background-color: forestgreen;
+    margin-left: 80%;
+    margin-bottom: 2%;
+    height: 5vh;
+}
+.input{
+    margin-top: 1%;
+    width: 50%;
+    align-items: flex-start;
+    justify-content: left;
+    margin-left: 50%;
+}
+.card{
+    margin-top: 7%;
+    background-color: plum;
+}
+.form{
+    margin-top: 5%;
+    width: 100%;
+    justify-content: center;
+}
+.instruction{
+    margin-top: 56%;
+}
+.search{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.amountTitle{
+    align-items: center;
+    justify-content: center;
+}
+
+.badge{
+    background-color: plum;
+    margin-right: 8%;
+    margin-top: 5%;
+    height:10%;
+}
+
+.delete{
+    margin-top: 4%;
+    height: 5vh;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+   
+}
+.image{
+   
+    height: 8rem;
+    margin-left: 40%;
+
+}
+@media screen and (max-width: 988px){
+  .instruction{
+      margin-top: 90%;
+  }
+}
